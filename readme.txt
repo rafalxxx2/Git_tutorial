@@ -13,3 +13,5 @@ ad
 
 
 aa ostatnia korekta
+
+git diff
